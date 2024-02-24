@@ -62,7 +62,7 @@ Server side API
 
 1. Kha Nguyen (https://github.com/Xero-N)
 2. Vilma Hernandez (https://github.com/vilmaglynn)
-3. Grace (https://github.com/grace-apa)
+3. Grace Apantaku (https://github.com/grace-apa)
 4. Md Tanvirul Islam (https://github.com/prodeveloper2023)
 
 ## Credits
